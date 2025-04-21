@@ -1,0 +1,63 @@
+{
+    "acido borico": "H3BO3",
+    "acido boroso": "H3BO2",
+    "acido perborico": "H3BO4",
+    "acido hipoboroso": "HBO",
+  
+    "acido bromidrico": "HBr",
+    "acido hipobromoso": "HBrO",
+    "acido bromoso": "HBrO2",
+    "acido bromico": "HBrO3",
+    "acido perbromico": "HBrO4",
+  
+    "acido carbonico": "H2CO3",
+  
+    "acido cianidrico": "HCN",
+    "acido hipocianoso": "HOCN",
+  
+    "acido cloridrico": "HCl",
+    "acido hipocloroso": "HClO",
+    "acido cloroso": "HClO2",
+    "acido clorico": "HClO3",
+    "acido perclorico": "HClO4",
+  
+    "acido cromico": "H2CrO4",
+    "acido dicromico": "H2Cr2O7",
+    "acido percromico": "H2Cr2O8",
+  
+    "acido fluoridrico": "HF",
+    "acido hipofluoroso": "HFO",
+    "acido perfluorico": "HFO4",
+  
+    "acido iodidrico": "HI",
+    "acido hipoiodoso": "HIO",
+    "acido iodoso": "HIO2",
+    "acido iodico": "HIO3",
+    "acido periodico": "HIO4",
+  
+    "acido manganoso": "H2MnO3",
+    "acido manganico": "H2MnO4",
+    "acido permanganico": "HMnO4",
+    "acido hipermanganico": "H5MnO6",
+  
+    "acido nitrico": "HNO3",
+    "acido nitroso": "HNO2",
+    "acido hiponitrico": "H2N2O2",
+    "acido pernitroso": "HN2O2",
+  
+    "acido fosforico": "H3PO4",
+    "acido fosforoso": "H3PO3",
+    "acido hipofosforoso": "H3PO2",
+    "acido metafosforico": "HPO3",
+  
+    "acido selenico": "H2SeO4",
+    "acido selenioso": "H2SeO3",
+    "acido hiposelenioso": "H2Se2O5",
+    "acido perselenico": "H2Se2O7",
+  
+    "acido sulfurico": "H2SO4",
+    "acido sulfuroso": "H2SO3",
+    "acido hiposulfuroso": "H2S2O4",
+    "acido persulfurico": "H2S2O8"
+  }
+  
